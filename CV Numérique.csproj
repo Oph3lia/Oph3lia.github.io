@@ -77,7 +77,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Images\animaux.jpg" />
     <Content Include="Images\cinéma.jpg" />
-    <Content Include="Images\Livres.jpg" />
+    <Content Include="Images\livres.jpg" />
     <Content Include="Images\musique.jpg" />
     <Content Include="Images\shiba-inu-wallpapers.jpg" />
     <Content Include="Images\Shiba.jpg" />
